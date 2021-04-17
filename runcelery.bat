@@ -1,0 +1,1 @@
+cmd /k "cd /d C:\Users\alejo\PycharmProjects\Entornos\FempuDeskEnv\Scripts & activate & cd /d C:\FemputadoraDesktop & celery -A FemputadoraDesktop worker -l info"
